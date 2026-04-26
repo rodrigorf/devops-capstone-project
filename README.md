@@ -1,3 +1,9 @@
+# Project Name/Description
+
+devops-capstone-project
+This repo is part of the capstone project of the Coursera DevOps course.
+Author: Rodrigo R Ferreira
+
 # DevOps Capstone Template
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
