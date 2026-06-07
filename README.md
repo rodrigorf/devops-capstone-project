@@ -1,6 +1,9 @@
 # Project Name/Description
 
 devops-capstone-project
+
+![Build Status](https://github.com/rodrigorf/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+
 This repo is part of the capstone project of the Coursera DevOps course.
 Author: Rodrigo R Ferreira
 
